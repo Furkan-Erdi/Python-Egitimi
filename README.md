@@ -4,7 +4,7 @@ Merhaba! Bu kaynak, Python programlama dilini temel seviyeden ileri seviyeye kad
 
 Not: İçerik, CC-BY-NC-SA lisans hakları altında paylaşılmaktadır, yani öğrenme deneyiminizi paylaşmaktan ve diğerlerine de yardımcı olmaktan çekinmeyin. Fakat içeriği ticari amaçlarla paylaşmayınız. Keyifli öğrenmeler dilerim!
 
-~ Furkan Erdi
+**~ Furkan Erdi**
 
 Eğitim üç bölümden ve otuz dersten oluşmaktadır.
 ```
