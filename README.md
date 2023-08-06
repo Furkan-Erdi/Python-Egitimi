@@ -7,7 +7,7 @@ Not: İçerik, CC-BY-NC-SA lisans hakları altında paylaşılmaktadır, yani ö
 ~ Furkan Erdi
 
 Eğitim üç bölümden ve otuz dersten oluşmaktadır.
-
+```
 |
 |__ Python 101
 |   |
@@ -76,3 +76,4 @@ Eğitim üç bölümden ve otuz dersten oluşmaktadır.
     |__ 29 Threading
     |
     |__ 30 Multi Processing
+```
