@@ -8,6 +8,7 @@ Not: İçerik, CC-BY-NC-SA lisans hakları altında paylaşılmaktadır, yani ö
 
 Eğitim üç bölümden ve otuz dersten oluşmaktadır.
 ```
+Python Eğitimi
 |
 |__ Python 101
 |   |
