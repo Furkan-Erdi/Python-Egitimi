@@ -4,7 +4,15 @@ Merhaba! Bu kaynak, Python programlama dilini temel seviyeden ileri seviyeye kad
 
 Not: İçerik, CC-BY-NC-SA lisans hakları altında paylaşılmaktadır, yani öğrenme deneyiminizi paylaşmaktan ve diğerlerine de yardımcı olmaktan çekinmeyin. Fakat içeriği ticari amaçlarla paylaşmayınız. Keyifli öğrenmeler dilerim!
 
-**~ Furkan Erdi**
+**~Furkan Erdi**
+
+<br>
+<div align="center">
+ <a>
+  <img src="https://github.com/Furkan-Erdi/Python-Egitimi/assets/54884571/22336c4a-5689-47b9-80b9-0f05be942652" width = "50%">
+ </a>
+</div>
+<br>
 
 Eğitim üç bölümden ve otuz dersten oluşmaktadır.
 ```
