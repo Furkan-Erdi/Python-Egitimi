@@ -2,7 +2,7 @@
  
 Merhaba! Bu kaynak, Python programlama dilini temel seviyeden ileri seviyeye kadar kapsamlı bir şekilde anlatmayı hedefleyen bir rehberdir. Her düzeydeki yazılım geliştirici için uygun bir şekilde tasarlanmıştır. Python'un temel yapı taşlarından başlayarak, dilin güçlü özelliklerine, veri yapılarından fonksiyonlara, modüllerden nesne yönelimli programlamaya kadar çeşitli konuları içeren kapsamlı bir içeriğe sahiptir. Bu kaynak, Python dilini öğrenmek veya mevcut bilgilerinizi geliştirmek isteyen herkese rehberlik etmeyi amaçlamaktadır.
 
-Not: İçerik, CC-BY-NC-SA lisans hakları altında paylaşılmaktadır, yani öğrenme deneyiminizi paylaşmaktan ve diğerlerine de yardımcı olmaktan çekinmeyin. Fakat içeriği ticari amaçlarla paylaşmayınız. Keyifli öğrenmeler dilerim!
+Not: İçerik, CC-BY-NC-SA lisans hakları altında paylaşılmaktadır, yani öğrenme deneyiminizi paylaşmaktan ve diğerlerine de yardımcı olmaktan çekinmeyin. Fakat içeriği ticari amaçlarla kullanmayın. Keyifli öğrenmeler dilerim!
 
 **~Furkan Erdi**
 
