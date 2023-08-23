@@ -18,9 +18,9 @@ Eğitim üç bölümden ve otuz dersten oluşmaktadır.
 ```
 Python Eğitimi
 |
+|__ 0 Kurulum
+|
 |__ Python 101
-|   |
-|   |__ 0 Kurulum
 |   |
 |   |__ 1 Değişkenler ve Veri Tipleri
 |   |
